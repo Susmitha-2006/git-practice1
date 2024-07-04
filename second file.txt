@@ -1,1 +1,2 @@
 html is a markup language
+we style web pages through css
